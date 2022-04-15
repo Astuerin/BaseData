@@ -1,0 +1,6 @@
+es (5 sloc) 155 Bytes
+{
+    "name": "Witch",
+    "description": "Witch type of NFT",
+    "image": "https://raw.githubusercontent.com/Astuerin/BaseData/main/witch.png"
+}
